@@ -1,6 +1,3 @@
 {
-	"reporter": "spec",
-	"check-leaks": true,
-	"recursive": true,
-	"fail-zero": true
+	"check-leaks": true
 }
