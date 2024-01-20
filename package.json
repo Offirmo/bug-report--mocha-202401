@@ -1,0 +1,14 @@
+{
+  "name": "bug-report--mocha-202401",
+  "version": "0.0.1",
+  "description": "mocha issue #4954",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --bail --config ./mocharc.json '**/*spec.mjs'"
+  },
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
